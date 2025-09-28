@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: sensor-combined
+Version: 0.0.1
+Summary: PX4 Figure-Eight Mission node for VTOL with arming, takeoff, transition, and trajectory execution.
+Home-page: UNKNOWN
+Maintainer: advitha
+Maintainer-email: advitha@example.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Provides-Extra: test
+
+UNKNOWN
+

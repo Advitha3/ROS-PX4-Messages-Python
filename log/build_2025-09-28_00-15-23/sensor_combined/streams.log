@@ -1,0 +1,25 @@
+[0.283s] Invoking command in '/home/advitha/ros2_ws/src/sensor_combined': PYTHONPATH=/home/advitha/ros2_ws/build/sensor_combined/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/advitha/ros2_ws/install/sensor_combined/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_combined build --build-base /home/advitha/ros2_ws/build/sensor_combined/build install --record /home/advitha/ros2_ws/build/sensor_combined/install.log --single-version-externally-managed install_data
+[0.400s] running egg_info
+[0.401s] writing ../../build/sensor_combined/sensor_combined.egg-info/PKG-INFO
+[0.401s] writing dependency_links to ../../build/sensor_combined/sensor_combined.egg-info/dependency_links.txt
+[0.401s] writing entry points to ../../build/sensor_combined/sensor_combined.egg-info/entry_points.txt
+[0.402s] writing requirements to ../../build/sensor_combined/sensor_combined.egg-info/requires.txt
+[0.402s] writing top-level names to ../../build/sensor_combined/sensor_combined.egg-info/top_level.txt
+[0.402s] reading manifest file '../../build/sensor_combined/sensor_combined.egg-info/SOURCES.txt'
+[0.403s] writing manifest file '../../build/sensor_combined/sensor_combined.egg-info/SOURCES.txt'
+[0.403s] running build
+[0.403s] running build_py
+[0.403s] copying sensor_combined/log_messages.py -> /home/advitha/ros2_ws/build/sensor_combined/build/lib/sensor_combined
+[0.403s] running install
+[0.403s] running install_lib
+[0.404s] copying /home/advitha/ros2_ws/build/sensor_combined/build/lib/sensor_combined/log_messages.py -> /home/advitha/ros2_ws/install/sensor_combined/lib/python3.10/site-packages/sensor_combined
+[0.404s] byte-compiling /home/advitha/ros2_ws/install/sensor_combined/lib/python3.10/site-packages/sensor_combined/log_messages.py to log_messages.cpython-310.pyc
+[0.404s] running install_data
+[0.404s] running install_egg_info
+[0.405s] removing '/home/advitha/ros2_ws/install/sensor_combined/lib/python3.10/site-packages/sensor_combined-0.0.1-py3.10.egg-info' (and everything under it)
+[0.405s] Copying ../../build/sensor_combined/sensor_combined.egg-info to /home/advitha/ros2_ws/install/sensor_combined/lib/python3.10/site-packages/sensor_combined-0.0.1-py3.10.egg-info
+[0.406s] running install_scripts
+[0.416s] Installing figure_eight_node script to /home/advitha/ros2_ws/install/sensor_combined/lib/sensor_combined
+[0.416s] Installing log_messages script to /home/advitha/ros2_ws/install/sensor_combined/lib/sensor_combined
+[0.417s] writing list of installed files to '/home/advitha/ros2_ws/build/sensor_combined/install.log'
+[0.430s] Invoked command in '/home/advitha/ros2_ws/src/sensor_combined' returned '0': PYTHONPATH=/home/advitha/ros2_ws/build/sensor_combined/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/advitha/ros2_ws/install/sensor_combined/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_combined build --build-base /home/advitha/ros2_ws/build/sensor_combined/build install --record /home/advitha/ros2_ws/build/sensor_combined/install.log --single-version-externally-managed install_data

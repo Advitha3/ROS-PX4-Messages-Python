@@ -1,0 +1,4 @@
+[console_scripts]
+figure_eight_node = sensor_combined.waypoint:main
+log_messages = sensor_combined.log_messages:main
+

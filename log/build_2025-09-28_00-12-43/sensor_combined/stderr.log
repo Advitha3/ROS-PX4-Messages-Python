@@ -1,0 +1,5 @@
+  File "/home/advitha/ros2_ws/install/sensor_combined/lib/python3.10/site-packages/sensor_combined/log_messages.py", line 11
+    Attachments16:08 (8 hours ago)
+                  ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+
